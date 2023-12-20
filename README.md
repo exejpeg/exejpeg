@@ -1,14 +1,18 @@
 ### Hi there 👋, I'm Vladislav
 #### Python developer
-![Python developer](https://res.cloudinary.com/practicaldev/image/fetch/s--RSrVjzgo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lesbaa8cdfhy794wp41a.gif)
-<img src="[путь к файлу](https://res.cloudinary.com/practicaldev/image/fetch/s--RSrVjzgo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lesbaa8cdfhy794wp41a.gif)" alt="img">
+🔭 I’m currently working on Telegram bots<br><br>🌱 I’m currently learning Aiogram, Flet, Flask
 
-A software engineering student from Russia!🇷🇺
 
-Skills: PYTHON / HTML / CSS
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=exejpeg&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=exejpeg&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=exejpeg&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on Telegram bots. 
-- 🌱 I’m currently learning Aiogram, Flet, Flask 
+---
+[![](https://visitcount.itsvg.in/api?id=exejpeg&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
