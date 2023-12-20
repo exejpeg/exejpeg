@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Vladislav
+#### Python developer
+![Python developer](https://res.cloudinary.com/practicaldev/image/fetch/s--RSrVjzgo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lesbaa8cdfhy794wp41a.gif)
 
-<!--
-**exejpeg/exejpeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A software engineering student from Russia!🇷🇺
 
-Here are some ideas to get you started:
+Skills: PYTHON / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Telegram bots. 
+- 🌱 I’m currently learning Aiogram, Flet, Flask 
+
+
+
+
