@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Vladislav
 #### Python developer
-🔭 I’m currently working on Telegram bots<br><br>🌱 I’m currently learning Aiogram, Flet, Flask
+🔭 I'm diving into Data Science!<br><br>
 
 
 # 💻 Tech Stack:
