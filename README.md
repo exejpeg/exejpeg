@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Vladislav
 #### Python developer
-🔭 I'm diving into Machine Learning!<br><br>
+🔭 I'm diving into Backend Development!<br><br>
 
 
 # 💻 Tech Stack:
